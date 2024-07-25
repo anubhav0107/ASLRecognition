@@ -16,8 +16,7 @@ This project develops a real-time American Sign Language (ASL) interpreter using
 - Python
 - Deep Learning (ResNet-50)
 - Computer Vision techniques
-- TensorFlow/PyTorch (please specify which one you used)
-
+- PyTorch
 ## Dataset
 
 The project uses the American Sign Language (ASL) alphabet dataset:
