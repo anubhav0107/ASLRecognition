@@ -64,7 +64,3 @@ The project uses the American Sign Language (ASL) alphabet dataset:
 2. Akano, V. O., & Adejoke. (2018). Conversion of Sign Language To Text And Speech Using Machine Learning Techniques. Journal of Research and Review in Science, 5, 58-65.
 
 3. Sign Language to Text Conversion by @bhaveshsood
-
-## License
-
-[Include your chosen license here]
